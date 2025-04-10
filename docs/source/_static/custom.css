@@ -1,0 +1,27 @@
+.wy-side-nav-search, .wy-nav-top {
+  background: #f37a1f;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.orange {
+  color: orange;
+}
+
+.red {
+  color: red;
+}
+
+a {
+  color: #f37a1f; /* Replace with your desired link color */
+}
+
+a .icon {
+  color: #f37a1f;
+}
