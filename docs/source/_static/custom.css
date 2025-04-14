@@ -1,5 +1,6 @@
 .wy-side-nav-search, .wy-nav-top {
-  background: #f37a1f;
+  /* background: #f37a1f; */
+  background: #233038;
 }
 
 .green {
@@ -18,10 +19,10 @@
   color: red;
 }
 
-a {
-  color: #f37a1f; /* Replace with your desired link color */
-}
-
-a .icon {
+/* a {
   color: #f37a1f;
-}
+} */
+
+/* a .icon {
+  color: #f37a1f;
+} */

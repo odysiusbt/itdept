@@ -30,3 +30,8 @@ html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_css_files = ["custom.css"]
+html_logo = "_static/kartidaya_logo.svg"
+html_theme_options = {
+  'logo_only': True,
+  'style_external_links': True,
+}

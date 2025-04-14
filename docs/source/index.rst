@@ -3,6 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. image:: _static/decor_autumn_b.png
+   :width: 100%
+
 Dokumentasi Departemen IT
 =========================
 
@@ -19,14 +22,32 @@ Ini adalah dokumentasi referensi untuk tugas-tugas yang berhubungan dengan *IT s
    :caption: Ortografi
    :maxdepth: 2
 
-   ortografi
-   mencetak_buklet
-   mengekspor_kamus
-   menggabung_kamus
+   ortografi/ortografi
+   ortografi/mencetak_buklet
+   ortografi/mengekspor_kamus
+   ortografi/menggabung_kamus
 
 .. toctree::
-   :caption: Hardware & Software Support
+   :caption: Hardware Support
    :maxdepth: 2
 
-   support
-   maintenance
+   hardware_support/hardware_support
+   hardware_support/setup
+   hardware_support/hardware_maintenance
+
+.. toctree::
+   :caption: Software Support
+   :maxdepth: 2
+
+   software_support/software_support
+   software_support/audacity
+   software_support/office
+   software_support/paratext
+   software_support/rev79
+
+.. toctree::
+   :caption: Web Development
+   :maxdepth: 2
+
+   web/web_development
+   web/arsip_buletin
