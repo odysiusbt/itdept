@@ -1,0 +1,57 @@
+/* Warna teks custom */
+.green {color: green;}
+.blue {color: blue;}
+.orange {color: orange;}
+.red {color: red;}
+
+/* Custom alignment */
+.center {text-align: center;}
+
+/* Warna sidebar */
+.wy-menu {
+  background: #233038;
+}
+
+/* Warna background search box */
+.wy-side-nav-search, .wy-nav-top {
+  /* background: #233038; */
+  background: #f37a1f;
+}
+
+/* Judul Sidebar */
+.wy-menu-vertical p.caption {
+  color: #f37a1f;
+}
+
+/* Hyperlinks sidebar (inactive) */
+.wy-menu-vertical a,
+.wy-menu-vertical a:visited {
+  color: #d9d9d9 !important;
+}
+
+/* Hyperlinks sidebar (active) */
+.wy-menu-vertical li.current a,
+.wy-menu-vertical li.current a:visited {
+  color: #404040 !important;
+}
+
+/* Background sidebar saat diklik */
+.wy-menu-vertical a:active {
+  background-color: #f37a1f;
+}
+
+/* Hyperlinks */
+a {
+  color: #f37a1f;
+}
+a:hover {
+  color: #f6974f;
+}
+a:visited {
+  color: #a34b09;
+}
+
+/* Card border */
+.sd-card-hover:hover {
+  border-color: #f37a1f;
+}
