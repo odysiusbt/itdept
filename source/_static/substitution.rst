@@ -7,8 +7,11 @@
 .. Warning sign
 .. |warn| unicode:: U+26A0
 
-.. Ellipsis
+.. Horizontal Ellipsis
 .. |hellip| unicode:: U+2026
+
+.. Vertical Ellipsis
+.. |vellip| unicode:: U+22EE
 
 .. role:: greentext
   :class: green
