@@ -1,0 +1,47 @@
+.. include:: ../_static/substitution.rst
+
+Paratext
+========
+
+Mendaftarkan Registrasi Baru
+----------------------------
+
+Paratext mewajibkan setiap pengguna untuk memiliki kode registrasi sebelum dapat menggunakan program tersebut. Kode registrasi ini dapat diperoleh dengan mendaftarkan nama pengguna di bawah naungan yayasan.
+
+#. Masuk ke situs `Paratext Registry <https://registry.paratext.org/signin>`_.
+
+#. Klik tab Users untuk menampilkan daftar pengguna, lalu klik **Register New User...**.
+
+#. Lengkapi semua informasi yang diperlukan dalam formulir, lalu klik **Create**.
+
+.. list-table::
+  :widths: 25 25
+  :header-rows: 1
+
+  * - Field
+    - Keterangan
+  * - First Name
+    - Nama depan pengguna baru
+  * - Last Name
+    - Nama belakang pengguna baru
+  * - Email Address
+    - Alamat email pengguna baru
+  * - Preferred Language
+    - Bahasa pilihan (default: Indonesian)
+  * - Primary Organisation
+    - Organisasi payung (default: Yayasan Kartidaya Sahabat Indonesia)
+  * - Country
+    - Negara asal (default: Indonesia)
+  * - Field Unit/Entity
+    -
+  * - Supervisor Name
+    - Nama pengawas
+  * - Reason for using Paratext
+    - Alasan menggunakan Paratext (default: )
+
+#. Setelah itu,
+
+Menambahkan Tagar Catatan ke Proyek Baru
+-------------------------------------------
+
+Saat sebuah proyek Paratext pertama kali dibuat, tagar catatan yang tersedia secara *default* hanyalah

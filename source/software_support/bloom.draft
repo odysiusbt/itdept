@@ -1,0 +1,34 @@
+.. include:: ../_static/substitution.rst
+
+Bloom Editor
+============
+
+`Bloom Editor <https://bloomlibrary.org/page/resources/downloads>`_ adalah perangkat lunak yang digunakan untuk membuat, menerjemahkan, dan menerbitkan buku, serta membagikan buku-buku tersebut kepada komunitas melalui Bloom Library.
+
+Membuat Koleksi Baru
+--------------------
+
+#. Pada jendela "Buka/Buat Koleksi", klik **Buat Koleksi Baru**.
+
+#. Pilih bahasa utama untuk koleksi yang hendak dibuat, lalu klik **Berikutnya**.
+
+#. Pilih jenis huruf untuk dipakai dalam koleksi, lalu klik **Berikutnya**.
+
+#. Masukkan informasi terkait **Negara**, **Provinsi**, dan **Distrik/Kecamatan** tempat bahasa utama koleksi dituturkan, lalu klik **Berikutnya**.
+
+#. Berikan nama untuk koleksi yang sedang dibuat, lalu klik **Berikutnya**.
+
+#. Klik **Selesaikan**, maka koleksi baru akan berhasil dibuat.
+
+Membuat Buku Baru
+-----------------
+
+#. Pada bagian "Sumber untuk Buku Baru", klik **Buku Dasar** |rarr| **BUAT BUKU DENGAN MENGGUNAKAN SUMBER INI**. Maka jendela editor buku akan ditampilkan.
+
+#. Di halaman Sampul Depan, masukkan judul buku
+
+
+Mengedit Buku yang Sudah Ada
+----------------------------
+
+#. Klik pada buku yang hendak diedit.

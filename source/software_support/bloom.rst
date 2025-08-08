@@ -1,7 +1,7 @@
 .. include:: ../_static/substitution.rst
 
-Bloom
-=====
+Bloom Editor
+============
 
 .. image:: ../_static/under_construction.png
    :width: 100%

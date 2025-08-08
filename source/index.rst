@@ -18,10 +18,11 @@ Dokumentasi Departemen IT
 .. documentation for details.
 
 .. toctree::
-   :caption: Laporan
+   :caption: Formulir
    :maxdepth: 1
 
-   Laporan Harian PenA <https://forms.gle/ZaE7pQrAuyfNf4ty6>
+   Laporan Kemajuan Program Penerjemahan <https://forms.gle/CtU6mH8FrSbrv5NF9>
+   Evaluasi Lokakarya Penerjemahan <https://forms.gle/HGfHQLG6bVe9tzPb7>
 
 .. toctree::
    :caption: Ortografi

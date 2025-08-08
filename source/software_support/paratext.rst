@@ -3,7 +3,5 @@
 Paratext
 ========
 
-Menambahkan Tagar Catatan ke Proyek Baru
--------------------------------------------
-
-Saat sebuah proyek Paratext pertama kali dibuat, tagar catatan yang tersedia secara *default* hanyalah
+.. image:: ../_static/under_construction.png
+   :width: 100%

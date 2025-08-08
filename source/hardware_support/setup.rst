@@ -62,7 +62,7 @@ Penerjemahan
 .. grid:: 2
 
     .. grid-item-card:: Bloom Editor
-      :link: https://bloomlibrary.org/page/resources/downloads
+      :link: https://bloomlibrary.org/page/resources/all-bloom-installers
 
       Bloom Editor adalah perangkat lunak untuk membuat dan menerbitkan buku-buku sederhana, terutama untuk literasi dan pendidikan di komunitas bahasa minoritas.
       +++
